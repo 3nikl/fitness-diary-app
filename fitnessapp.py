@@ -3,7 +3,6 @@ import pandas as pd
 import json
 import os
 from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
 import plotly.graph_objs as go
 from fpdf import FPDF
 
